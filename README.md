@@ -54,4 +54,4 @@ Prosjektet demonstrerer hvordan man kan bygge en enkel fullstack applikasjon med
 
 Løsningen ble utviklet som del av eksamen i faget DS3103, med mål om å vise forståelse for både backend-utvikling og frontend-integrasjon.
 
-Resultatet av eksamen ble B
+> Resultatet av eksamen ble B
